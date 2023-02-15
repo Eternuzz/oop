@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    border: 1px solid;
+    gap: 1rem;
+    flex: 1;
+
+}
+a{
+    width: 25rem;
+    height: 10rem;
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

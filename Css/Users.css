@@ -1,0 +1,186 @@
+body{
+    height: 97vh;
+    display: flex;
+    background-color: #363853;
+}
+
+.aside1{
+    display: flex;
+    flex-grow: 0.12;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:rgba(0, 0, 255, 0.093);
+
+}
+.as1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-grow: 0.1;
+}
+.as{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    background-color: azure;
+    border-radius: 50%;
+
+}
+.as2{
+    display: flex;
+    flex-grow: 0.1;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.as22{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    width: 90%;
+}
+.af{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: rgba(0, 0, 255, 0.262);
+
+}
+.af1{
+    font-size: 30px;
+    display: flex;
+}
+.m1{    
+    display: inline;
+    justify-content: flex-end;
+
+}
+main{
+    gap: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-left: 10px;
+}
+
+.m1{
+    display: flex;
+    justify-content: space-between;
+}
+.m2{
+    display: flex;
+    align-items: center;
+}
+.m3{
+    height: 35px;
+    width: 35px;
+    background-color: black;
+}
+.m4{
+    font-size: large;
+    display: flex;
+    background-color: black;
+
+}
+.mf{
+    display: flex;
+
+    align-items: center;
+    width: 15rem;
+    justify-content: space-evenly;
+}
+.m5{
+   
+    font-size: 20px;
+    display: flex;
+    width: 60px;
+    background-color: blue;
+    height: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+.m6{
+  
+    display: flex;
+    height: 45px;
+    width: 35px;
+    background-color: blueviolet;
+}
+.m7{
+
+    display: flex;
+    height: 45px;
+    width: 35px;
+    background-color: blueviolet;
+}
+.a9{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.a9 p{
+    font-size: 25px;
+}
+.a10 p{
+    font-size: 15px;
+}
+.a10{
+    display: flex;
+    align-items: center;
+    background-color: rgba(135, 184, 184, 0.553);
+    width: 14rem;
+    justify-content: space-evenly;
+
+
+}
+.a11{
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+}
+.art1{
+
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    overflow: auto;
+}
+.art2{
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.art3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ultimo{
+    display: flex;
+   flex: 1;
+    flex-direction: column;
+    overflow:auto;
+}
+.us{
+    display: flex;
+    align-items: center;
+
+}
+.user2{
+    margin-right: 20px;
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+.user1{
+    color: aliceblue;
+}
+.art3:hover{
+    background-color: beige;
+}
+
